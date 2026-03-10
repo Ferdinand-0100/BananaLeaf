@@ -32,8 +32,8 @@ const Footer = () => {
             <h4 className="font-body text-sm font-semibold uppercase tracking-wider text-accent mb-4">Contact</h4>
             <ul className="space-y-2 font-body text-sm text-primary-foreground/60">
               <li>
-                <a href="https://wa.me/6281234567890" className="hover:text-accent transition-colors">
-                  WhatsApp: +62 812 3456 7890
+                <a href="https://wa.me/62895324633717" className="hover:text-accent transition-colors">
+                  WhatsApp: +62 895 3246 33717
                 </a>
               </li>
               <li>
@@ -42,9 +42,9 @@ const Footer = () => {
                 </a>
               </li>
               <li className="pt-2">
-                Jl. Gatot Subroto No. 88<br />
+                Jl. Langsa No. 105A<br />
                 Medan, North Sumatra<br />
-                Indonesia 20118
+                Indonesia 20352
               </li>
             </ul>
           </div>
